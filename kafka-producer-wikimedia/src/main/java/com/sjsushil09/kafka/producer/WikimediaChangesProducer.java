@@ -1,4 +1,4 @@
-package com.sjsushil09.kafka;
+package com.sjsushil09.kafka.producer;
 
 import com.launchdarkly.eventsource.EventHandler;
 import com.launchdarkly.eventsource.EventSource;

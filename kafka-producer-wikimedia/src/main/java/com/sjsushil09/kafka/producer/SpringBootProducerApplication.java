@@ -1,4 +1,4 @@
-package com.sjsushil09.kafka;
+package com.sjsushil09.kafka.producer;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
